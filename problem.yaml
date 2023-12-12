@@ -1,0 +1,4 @@
+name: priority_queue
+limits:
+    memory: 512
+    output: 256
